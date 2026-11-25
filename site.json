@@ -1,0 +1,108 @@
+{
+  "site": {
+    "name": "Willow Learning Studio",
+    "description": "Reading & Writing and Numeracy tuition for Years 2–5 in Prospect, Adelaide.",
+    "logo": null
+  },
+  "theme": "forest-peach",
+  "home": {
+    "headline": "Build confidence. Learn at your pace.",
+    "description": "Reading & Writing and Numeracy tuition for Years 2–5 in Prospect, Adelaide.",
+    "image": null,
+    "enquiryButtonLabel": "Enquire About Classes"
+  },
+  "subjects": {
+    "heading": "Subjects & Year Levels",
+    "items": [
+      {
+        "name": "Reading & Writing",
+        "yearLevels": [
+          "Year 2",
+          "Year 3",
+          "Year 4",
+          "Year 5"
+        ],
+        "description": "Practise core skills with guided examples."
+      },
+      {
+        "name": "Numeracy",
+        "yearLevels": [
+          "Year 2",
+          "Year 3",
+          "Year 4",
+          "Year 5"
+        ],
+        "description": "Build confidence through activities and regular feedback."
+      }
+    ]
+  },
+  "tutors": {
+    "heading": "Meet the Tutors",
+    "items": [
+      {
+        "name": "Priya Shah",
+        "bio": "Priya Shah teaches Reading & Writing and adapts lessons to each student’s pace.",
+        "photo": null
+      },
+      {
+        "name": "Maya Patel",
+        "bio": "Maya Patel teaches Numeracy and adapts lessons to each student’s pace.",
+        "photo": null
+      }
+    ]
+  },
+  "classDetails": {
+    "heading": "Class Details",
+    "deliveryModes": [
+      "In person",
+      "Online"
+    ],
+    "lessonFormats": [
+      "One-to-one"
+    ],
+    "location": "Prospect, Adelaide",
+    "sessionDurationMinutes": 60
+  },
+  "fees": {
+    "enabled": true,
+    "heading": "Fees",
+    "items": [
+      {
+        "label": "One-to-one lesson",
+        "amount": 55,
+        "currency": "AUD",
+        "unit": "session"
+      }
+    ]
+  },
+  "timetable": {
+    "enabled": true,
+    "heading": "Timetable",
+    "items": [
+      {
+        "subject": "Reading & Writing",
+        "day": "Saturday",
+        "startTime": "10:00",
+        "endTime": "11:00"
+      }
+    ]
+  },
+  "testimonials": {
+    "enabled": false,
+    "heading": "Testimonials",
+    "items": [
+      {
+        "quote": "The weekly practice helped our child feel more confident.",
+        "author": "Sample parent"
+      }
+    ]
+  },
+  "enquiries": {
+    "heading": "Enquiries",
+    "description": "Ask about class availability and which year levels we support.",
+    "preferredMethod": "email",
+    "email": "willow-learning-studio@example.com",
+    "whatsappNumber": null,
+    "whatsappMessage": "Hi, I’d like to enquire about tuition classes."
+  }
+}
